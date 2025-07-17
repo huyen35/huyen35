@@ -8,10 +8,6 @@
 
 ---
 
-### 🔭 I’m currently working on:
-- [doanthuctap](https://github.com/SiroBaby/doanthuctap)
-- [doanchuyenganhweb](https://github.com/SiroBaby/doanchuyenganhweb)
-
 ### 🌱 I’m currently learning:
 - `React Native`, `Next.js`, `TailwindCSS`
 
