@@ -12,8 +12,9 @@
 - `React Native`, `Next.js`, `TailwindCSS`
 
 ### 👯 Projects I’ve collaborated on:
-- [doanchuyenganhweb](https://github.com/SiroBaby/doanchuyenganhweb)
 - [doancosonganh](https://github.com/SiroBaby/doancosonganh)
+- [doanchuyenganhweb](https://github.com/SiroBaby/doanchuyenganhweb)
+- [doanthuctap](https://github.com/SiroBaby/doanthuctap)
 
 ### 📂 Check out my other projects:
 - [https://github.com/huyen35](https://github.com/huyen35)
